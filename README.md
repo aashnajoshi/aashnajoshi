@@ -1,6 +1,6 @@
 # Hey there, I'm Aashna Joshi! 👋
 
-I am a passionate Python developer with a strong passion for crafting cutting-edge solutions, especially in Computer Vision and Automation. You can check out my [WebFolio](https://aashnajoshi.github.io/Webfolio/) for more details about me.
+I am a Python developer with a strong passion for crafting cutting-edge solutions, especially in Computer Vision and Automation. You can check out my [WebFolio](https://aashnajoshi.github.io/Webfolio/) for more details about me.
 
 ## Skills
 - Programming Languages: Python, JavaScript
