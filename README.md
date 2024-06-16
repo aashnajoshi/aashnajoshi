@@ -11,4 +11,6 @@ I love technology and am constantly eager to expand my knowledge to keep up with
 - Cloud Deployment: Heroku
   
 ## Contact Me
-[Mail](aashna.joshi03@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aashnajoshi/) | [LeetCode](https://leetcode.com/aashnajoshi/) | [Discord](discordapp.com/users/790711856687480852) 
+[![Mail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:aashna.joshi03@gmail.com)
+[![LinkedIn](https://img.icons8.com/?size=50&id=13930&format=png&color=000000)](https://www.linkedin.com/in/aashnajoshi/)
+[![Discord](https://img.icons8.com/?size=50&id=65646&format=png&color=000000)](https://discord.com/users/790711856687480852)
