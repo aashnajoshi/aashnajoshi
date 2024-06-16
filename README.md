@@ -4,11 +4,11 @@ I am a Python developer with a strong passion for crafting cutting-edge solution
 I love technology and am constantly eager to expand my knowledge to keep up with the latest trends. Since you've discovered me, don't hesitate to get in touch for partnerships or just to drop a friendly greeting! 😄
 
 ## Skills
-- Programming Languages: Python, JavaScript
-- Web Technologies: HTML, CSS, JS
-- Database: PostgreSQL, MongoDB
-- Version Control: Git
-- Cloud Deployment: Heroku
+- **Programming Languages**: Python, JavaScript
+- **Web Technologies**: HTML, CSS, JS
+- **Databases**: PostgreSQL, MongoDB
+- **Version Control**: Git
+- **Cloud Deployment**: Heroku
   
 ## Contact Me
 [![Mail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:aashna.joshi03@gmail.com)
