@@ -19,5 +19,3 @@ I love technology and am constantly eager to expand my knowledge to keep up with
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashnajoshi&show_icons=true&locale=en&layout=compact" alt="aashnajoshi" style="height: 200px"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashnajoshi&" alt="aashnajoshi" style="height: 200px"/></p>
 <!---<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashnajoshi&show_icons=true&locale=en" alt="aashnajoshi" /></p> -->
-
-https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000
