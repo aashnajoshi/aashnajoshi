@@ -16,7 +16,7 @@ I love technology and am constantly eager to expand my knowledge to keep up with
 [![Discord](https://img.icons8.com/?size=45&id=YETjxBcCFpfB&format=png&color=000000)](https://discord.com/users/790711856687480852)
 
 ## Stats
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aashnajoshi&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="flex: 1; min-width: 200px; max-width: 45%; height: 10rem;"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashnajoshi&" alt="Streak Stats" style="flex: 1; min-width: 200px; max-width: 45%; height: 10rem;"/>
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aashnajoshi&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="flex: 1; min-width: 200px; max-width: 45%; height: 10rem; object-fit: cover;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashnajoshi&" alt="Streak Stats" style="flex: 1; min-width: 200px; max-width: 45%; height: 10rem; object-fit: cover;"/>
 </div>
