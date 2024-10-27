@@ -16,6 +16,6 @@ I love technology and am constantly eager to expand my knowledge to keep up with
 [![Discord](https://img.icons8.com/?size=45&id=YETjxBcCFpfB&format=png&color=000000)](https://discord.com/users/790711856687480852)
 
 ## Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashnajoshi&show_icons=true&locale=en&layout=compact" alt="aashnajoshi" style="height: 10rem"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashnajoshi&" alt="aashnajoshi" style="height: 10rem"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashnajoshi&show_icons=true&locale=en&layout=compact" alt="aashnajoshi" style="height: 10rem; max-width:150px"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashnajoshi&" alt="aashnajoshi" style="height: 10rem; max-width:150px"/></p>
 <!---<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashnajoshi&show_icons=true&locale=en" alt="aashnajoshi" /></p> -->
