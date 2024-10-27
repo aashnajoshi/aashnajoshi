@@ -12,10 +12,12 @@ I love technology and am constantly eager to expand my knowledge to keep up with
   
 ## Contact Me
 [![Mail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:aashna.joshi03@gmail.com)
-[![LinkedIn](https://img.icons8.com/?size=50&id=13930&format=png&color=000000)](https://www.linkedin.com/in/aashnajoshi/)
-[![Discord](https://img.icons8.com/?size=50&id=65646&format=png&color=000000)](https://discord.com/users/790711856687480852)
+[![LinkedIn](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/aashnajoshi/)
+[![Discord](https://img.icons8.com/?size=45&id=YETjxBcCFpfB&format=png&color=000000)](https://discord.com/users/790711856687480852)
 
 ## Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashnajoshi&show_icons=true&locale=en&layout=compact" alt="aashnajoshi" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashnajoshi&" alt="aashnajoshi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashnajoshi&show_icons=true&locale=en&layout=compact" alt="aashnajoshi" style="height: 200px"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashnajoshi&" alt="aashnajoshi" style="height: 200px"/></p>
 <!---<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashnajoshi&show_icons=true&locale=en" alt="aashnajoshi" /></p> -->
+
+https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000
