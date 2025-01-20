@@ -16,5 +16,5 @@ I'm always eager to learn, stay updated with new tech, and collaborate on exciti
 ## Stats
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aashnajoshi&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="flex: 1; min-width: 200px; max-width: 45%; height: 10rem;"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashnajoshi" alt="Streak Stats" style="flex: 1; min-width: 200px; max-width: 45%; height: 10rem;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashnajoshi&theme=default&hide_border=true" alt="Streak Stats" style="flex: 1; min-width: 200px; max-width: 45%; height: 10rem;"/>
 </div>
