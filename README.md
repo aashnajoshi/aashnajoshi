@@ -14,7 +14,6 @@ I'm a Python developer passionate about crafting innovative solutions, particula
 
 ## Stats
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aashnajoshi&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="flex: 1; min-width: 200px; max-width: 40%; height: 10rem;"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashnajoshi&theme=high-contrast" alt="Streak Stats" style="flex: 1; min-width: 200px; max-width: 40%; height: 10rem;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashnajoshi" alt="Streak Stats" style="flex: 1; min-width: 200px; max-width: 40%; height: 10rem;"/>
 </div>
