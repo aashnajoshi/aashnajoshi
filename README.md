@@ -13,7 +13,4 @@ I'm a Python developer passionate about crafting innovative solutions, particula
 [![Mail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:aashna.joshi03@gmail.com)[![LinkedIn](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/aashnajoshi/)[![Discord](https://img.icons8.com/?size=45&id=YETjxBcCFpfB&format=png&color=000000)](https://discord.com/users/790711856687480852)
 
 ## Stats
-<div style="display: flex; justify-content: space-between; align-items: stretch; width: 100%;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashnajoshi&theme=high-contrast" alt="Streak Stats" style="flex: 1; min-width: 100px; max-width: 50%; height: 10rem; object-fit: cover;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashnajoshi" alt="Streak Stats" style="flex: 1; min-width: 200px; max-width: 50%; height: 10rem; object-fit: cover;"/>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aashnajoshi" alt="Streak Stats" style="flex: 1; min-width: 200px; max-width: 50%; height: 10rem; object-fit: cover;"/>
