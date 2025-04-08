@@ -2,15 +2,18 @@
 I'm a Python developer passionate about crafting innovative solutions, particularly in Computer Vision and Automation. Explore my [WebFolio](https://aashnajoshi.github.io/Webfolio/) to learn more about me. I'm always eager to learn, stay updated with new tech, and collaborate on exciting projects. Feel free to reach out for partnerships or to say hi!😄
 
 ## Skills
-- **Programming Languages**: Python
-- **Web Technologies**: HTML, CSS, Bootstrap, JS
-- **Databases**: PostgreSQL, MongoDB
-- **Version Control**: Git
-- **Cloud Deployment**: Heroku
-- **Cloud Services**: Azure
-  
+- **Programming Languages**: <a href="https://github.com/search?q=user%3Aaashnajoshi+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a> <a href="https://github.com/search?q=user%3Aaashnajoshi+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a> <a href="https://github.com/search?q=user%3Aaashnajoshi+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+- **Frameworks**: <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a> <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a> <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a> 
+- **Libraries**: <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a> <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a> <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+- **Tools**: <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a> <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a> <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a> <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+- **Web Technologies**: <a href="https://github.com/search?q=user%3Aaashnajoshi+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a> <a href="https://github.com/search?q=user%3Aaashnajoshi+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a> <a href="https://github.com/search?q=user%3Aaashnajoshi+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+- **Databases**: <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a> <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+- **Cloud Services**: ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
+- **Cloud Deployment & Hosting**: <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a> <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+- **Version Control**: <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+
 ## Contact Me
 [![Mail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:aashna.joshi03@gmail.com)[![LinkedIn](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/aashnajoshi/)[![Discord](https://img.icons8.com/?size=45&id=YETjxBcCFpfB&format=png&color=000000)](https://discord.com/users/790711856687480852)
 
 ## Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aashnajoshi" alt="Streak Stats" style="flex: 1; min-width: 200px; max-width: 50%; height: 10rem; object-fit: cover;"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=aashnajoshi&theme=holi-theme)](https://git.io/streak-stats)
