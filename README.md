@@ -1,5 +1,5 @@
 # Hey there, I'm Aashna Joshi! 👋
-I'm a Python developer passionate about crafting innovative solutions, particularly in Computer Vision and Automation. Explore my [WebFolio](https://aashnajoshi.github.io/Webfolio/) to learn more about me. I'm always eager to learn, stay updated with new tech, and collaborate on exciting projects. Feel free to reach out for partnerships or to say hi!😄
+I'm a Python developer passionate about crafting innovative solutions, particularly in Computer Vision and Automation. Explore my [WebFolio](https://aashnajoshi.github.io/) to learn more about me. I'm always eager to learn, stay updated with new tech, and collaborate on exciting projects. Feel free to reach out for partnerships or to say hi!😄
 
 ## Skills
 - **Programming Languages**: <a href="https://github.com/search?q=user%3Aaashnajoshi+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a> <a href="https://github.com/search?q=user%3Aaashnajoshi+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a> <a href="https://github.com/search?q=user%3Aaashnajoshi+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
