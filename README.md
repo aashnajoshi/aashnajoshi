@@ -25,7 +25,7 @@ I'm a passionate Python developer focused on creating innovative solutions in Co
 
 🌸 **[Flower-Recognizer](https://github.com/aashnajoshi/Flower-Recognizer)**: A Deep Learning model that classifies flower images (e.g., Rose, Sunflower, Tulip) with real-time image upload and classification capabilities. Developed using **Python**, **TensorFlow**, and **NumPy**. This project showcases my passion for Computer Vision and machine learning.
 
-🎵 **[EmoTunes](https://github.com/aashnajoshi/EmoTunes)**: A creative Music Recommendation system that detects user emotions via webcam in real-time and plays matching YouTube songs from curated CSV playlists (e.g., Happy, Sad). Developed using **Python**, **TensorFlow**, and **NumPy**, with **AWS** for cloud processing. This project showcases my passion for Computer Vision and cloud solutions.
+🎵 **[MoodBeats](https://github.com/aashnajoshi/MoodBeats)**: A creative Music Recommendation system that detects user emotions via webcam in real-time and plays matching YouTube songs from curated CSV playlists (e.g., Happy, Sad). Developed using **Python**, **TensorFlow**, and **NumPy**, with **AWS** for cloud processing. This project showcases my passion for Computer Vision and cloud solutions.
 
 [View all projects ➺](https://github.com/aashnajoshi?tab=repositories)
 
